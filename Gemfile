@@ -51,3 +51,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'haml', '~> 5.0', '>= 5.0.2'
 gem 'simple_form', '~> 3.5'
 gem 'devise', '~> 4.3'
+gem 'bcrypt', '~> 3.1.7'
+gem 'nio4r', '~> 2.1'
